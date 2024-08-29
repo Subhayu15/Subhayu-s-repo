@@ -1,0 +1,19 @@
+/* src/components/Overview.css */
+.overview-section {
+    background: #f4f4f4;
+    color: #333;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .overview-title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .overview-content {
+    font-size: 1.2em;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  

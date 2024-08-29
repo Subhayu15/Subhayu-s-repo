@@ -1,0 +1,21 @@
+.results-section {
+  padding: 40px;
+  background-color: #f4f4f4;
+}
+
+.results-section h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.results-section p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.chart-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+  

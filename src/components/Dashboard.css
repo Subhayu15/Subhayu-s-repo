@@ -1,0 +1,20 @@
+.dashboard-container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .chart-container {
+    margin-bottom: 40px;
+  }
+  
+  h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  

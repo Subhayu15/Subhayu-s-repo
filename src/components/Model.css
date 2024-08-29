@@ -1,0 +1,23 @@
+/* src/components/Model.css */
+.model-section {
+    background: #e0f7fa;
+    color: #333;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .model-title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .model-description {
+    font-size: 1.2em;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .model-graph {
+    margin-top: 20px;
+  }
+  
